@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body,h1,h2,h3,h4,h5,h6,p,dd{
+	margin:0;
+}
+ul,ol,dl{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+img{
+	border:none;
+	vertical-align:middle;
+}
+a{
+	text-decoration:none;
+	outline:none;
+	color:inherit;
+}
+input,button{
+	border:none;
+	outline:none;
+}
+
+.iconfont{
+	color:inherit;
+}
+
